@@ -12,8 +12,10 @@ public class campaignManager {
     public static Boolean checkTheInsert(Campaign newc){
         List<Campaign> results = [SELECT Name From Campaign WHERE Name =: newc.Name];
         if(results.size() == 0){
+           
             return true;}
         else{
+            
             return false;
         }
     }
