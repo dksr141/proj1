@@ -1,18 +1,31 @@
-# Salesforce DX Project: Next Steps
+# PROJECT NAME
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Project Description
 
-## How Do You Plan to Deploy Your Changes?
+Project 1 was a web-platform for a company called Rockland Autocare. Rockland Autocare is a gig-economy style mechanic service. Letting independent contractors privately be dispatched to provide roadside assistance to consumers. This concept offered a variety of different interesting applications to the platform.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Technologies Used
 
-## Configure Your Salesforce DX Project
+* Tech 1 - Custom Objects with a variety of special fields and functionality to facilitate both Gig-Workers and the Orders that they process. 
+* Tech 2 - Accurate customization of declarative tools to maximize Org, Object, Field and Record level security. 
+* Tech 3 - Comprehensive Apex code for both classes and triggers to properly faciliate Standard as well as Custom Object Data. 
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## Getting Started
+   
+(include git clone command)
+(include all environment setup steps)
 
-## Read All About It
+> Be sure to include BOTH Windows and Unix command  
+> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+- All the `code` required to get started
+- Images of what it should look like
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Usage
+
+> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+## Contributors
+
+> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+## License
+
+This project uses the following license: [<license_name>](<link>).
