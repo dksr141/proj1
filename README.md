@@ -12,20 +12,15 @@ Project 1 was a web-platform for a company called Rockland Autocare. Rockland Au
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-- All the `code` required to get started
-- Images of what it should look like
+git clone [HTTPS]
+Open the folder in VS Code
+CTRL + SHIFT + P - Click "Authorize an Org" and choose a Salesforce Org to authorize.
+CTRL + SHIFT + P - Click "Deploy This Source to Org" to deploy code to an Org.
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-## Contributors
+With the Org you have succesfully Authorized, navigate to the Experience Site Builder and begin experimentation with the components available to you. 
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [MIT License](https://choosealicense.com/licenses/mit/).
